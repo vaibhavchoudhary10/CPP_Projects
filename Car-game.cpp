@@ -188,6 +188,6 @@ void play(){
         if(enemyFlag[0] == 1){
             enemyY[0] += 1; 
         }
-        
+
     } 
 }
